@@ -1,4 +1,4 @@
-package br.com.vitor.gof;
+package br.com.vitor.gof.singleton;
 
 /**
  * Singleton "Lazy Holder".
